@@ -85,7 +85,6 @@ public abstract class AbstractSorter {
 		} else {
 			if (order == 0) {
 				Point.xORy = true;
-
 			} else {
 				Point.xORy = false;
 			}
